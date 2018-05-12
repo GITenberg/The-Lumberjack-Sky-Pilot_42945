@@ -1,0 +1,27 @@
+_repo: The-Lumberjack-Sky-Pilot_42945
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42945-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Whittles, Thomas D. (Thomas Davis)
+    birthdate: 1873
+    gutenberg_agent_id: '41939'
+    url: http://www.gutenberg.org/2009/agents/41939
+description: ''
+gutenberg_issued: '2013-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42945'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Higgins, Francis Edmund, 1865-1915'
+- !lcsh 'Church work with loggers -- Minnesota'
+- !lcsh 'Presbyterian Church -- Clergy -- Biography'
+- !lcc 'BX'
+title: The Lumberjack Sky Pilot
+url: http://www.gutenberg.org/ebooks/42945
